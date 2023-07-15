@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family:'Ralewy',Verdana, Geneva, Tahoma, sans-serif;
   color: black;
   background-color: white;
 }
@@ -34,4 +34,26 @@ body {
   font-size: 15px;
   letter-spacing: 0.6px;
   margin: 4px;
+}
+.content-area{
+  margin: 10px;
+}
+.content-heading{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 32px;
+  color: #009900;
+  text-align: center;
+  margin: 0;
+  padding-top: 40px;
+}
+.description{
+  max-width: 660px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 2.2em;
+  color: #333;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
 }
