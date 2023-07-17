@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family:'Ralewy',Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Ralewy', Verdana, Geneva, Tahoma, sans-serif;
   color: black;
   background-color: white;
 }
@@ -35,10 +35,11 @@ body {
   letter-spacing: 0.6px;
   margin: 4px;
 }
-.content-area{
+
+.content-area {
   margin: 10px;
 }
-.content-heading{
+.content-heading {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 32px;
@@ -47,7 +48,7 @@ body {
   margin: 0;
   padding-top: 40px;
 }
-.description{
+.description {
   max-width: 660px;
   font-weight: 500;
   font-size: 18px;
@@ -56,4 +57,22 @@ body {
   text-align: justify;
   margin-left: auto;
   margin-right: auto;
+}
+.template-preview {
+  margin-top: 400px;
+  text-align: center;
+}
+.template-box{
+  background: linear-gradient(#FFF, #EEE, #FFF, #EEE);
+  max-width: 910px;
+  margin: 20px auto 30px auto;
+  padding: 15px 30px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+.tm-box-title{
+  font-weight: normal;
+  color: #009900;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
 }
